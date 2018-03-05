@@ -1,0 +1,38 @@
+{
+  "transaction":{
+    "id":"B20150121-344958-251479",
+    "date":"2015-01-21T12:54:01+01:00",
+    "status":"in process",
+    "server_number":null,
+    "server_ip":null,
+    "authorized_key":[
+      {
+        "key":{
+          "name":"key1",
+          "fingerprint":"15:28:b0:03:95:f0:77:b3:10:56:15:6b:77:22:a5:bb",
+          "type":"ED25519",
+          "size":256
+        }
+      }
+    ],
+    "host_key":[
+
+    ],
+    "comment":null,
+    "product":{
+      "id":"EX40",
+      "name":"Dedicated Root Server EX40",
+      "description":[
+        "Intel\u00ae Core\u2122 i7-4770 Quad-Core Haswell",
+        "32 GB DDR3 RAM",
+        "2 x 2 TB SATA 6 Gb\/s Enterprise HDD; 7200 rpm(Software-RAID 1)",
+        "1 Gbit\/s bandwidth"
+      ],
+      "traffic":"30 TB",
+      "dist":"Debian 7.7 minimal",
+      "arch":"64",
+      "lang":"en",
+      "location":"FSN1"
+    }
+  }
+}

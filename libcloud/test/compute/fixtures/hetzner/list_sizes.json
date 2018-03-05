@@ -1,0 +1,118 @@
+[
+  {
+    "product":{
+      "id":"EX60",
+      "name":"Dedicated Root Server EX60",
+      "description":[
+        "Intel\u00ae Core\u2122 i7-920 Quad-Core",
+        "48 GB DDR3 RAM",
+        "2 x 2 TB SATA 3 Gb\/s Enterprise HDD; 7200 rpm(Software-RAID 1)",
+        "1 Gbit\/s bandwidth"
+      ],
+      "traffic":"30 TB",
+      "dist":[
+        "Rescue system",
+        "CentOS 6.6 minimal",
+        "CentOS 7.0 minimal",
+        "Debian 7.7 LAMP",
+        "Debian 7.7 minimal",
+        "openSUSE 13.2 minimal",
+        "Ubuntu 14.04.1 LTS minimal",
+        "Ubuntu 14.10 minimal"
+      ],
+      "arch":[
+        64,
+        32
+      ],
+      "lang":[
+        "en"
+      ],
+      "location":[
+        "FSN1",
+        "NBG1"
+      ],
+      "prices":[
+        {
+          "location":"FSN1",
+          "price":{
+            "net":"49.58",
+            "gross":"49.58"
+          },
+          "price_setup":{
+            "net":"0.00",
+            "gross":"0.00"
+          }
+        },
+        {
+          "location":"NBG1",
+          "price":{
+            "net":"49.58",
+            "gross":"49.58"
+          },
+          "price_setup":{
+            "net":"0.00",
+            "gross":"0.00"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "product":{
+      "id":"EX40",
+      "name":"Dedicated Root Server EX40",
+      "description":[
+        "Intel\u00ae Core\u2122 i7-4770 Quad-Core Haswell",
+        "32 GB DDR3 RAM",
+        "2 x 2 TB SATA 6 Gb\/s Enterprise HDD; 7200 rpm(Software-RAID 1)",
+        "1 Gbit\/s bandwidth"
+      ],
+      "traffic":"30 TB",
+      "dist":[
+        "Rescue system",
+        "CentOS 6.6 minimal",
+        "CentOS 7.0 minimal",
+        "Debian 7.7 LAMP",
+        "Debian 7.7 minimal",
+        "openSUSE 13.2 minimal",
+        "Ubuntu 14.04.1 LTS minimal",
+        "Ubuntu 14.10 minimal"
+      ],
+      "arch":[
+        64,
+        32
+      ],
+      "lang":[
+        "en"
+      ],
+      "location":[
+        "FSN1",
+        "NBG1"
+      ],
+      "prices":[
+        {
+          "location":"FSN1",
+          "price":{
+            "net":"84.03",
+            "gross":"84.03"
+          },
+          "price_setup":{
+            "net":"41.18",
+            "gross":"41.18"
+          }
+        },
+        {
+          "location":"NBG1",
+          "price":{
+            "net":"84.03",
+            "gross":"84.03"
+          },
+          "price_setup":{
+            "net":"41.18",
+            "gross":"41.18"
+          }
+        }
+      ]
+    }
+  }
+]

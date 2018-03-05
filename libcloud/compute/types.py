@@ -131,6 +131,7 @@ class Provider(Type):
     GCE = 'gce'
     GOGRID = 'gogrid'
     GRIDSPOT = 'gridspot'
+    HETZNER = 'hetzner'
     HOSTVIRTUAL = 'hostvirtual'
     IBM = 'ibm'
     IKOULA = 'ikoula'

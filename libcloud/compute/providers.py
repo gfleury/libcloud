@@ -147,6 +147,8 @@ DRIVERS = {
     ('libcloud.compute.drivers.oneandone', 'OneAndOneNodeDriver'),
     Provider.UPCLOUD:
     ('libcloud.compute.drivers.upcloud', 'UpcloudDriver'),
+    Provider.HETZNER:
+    ('libcloud.compute.drivers.hetzner', 'HetznerRobotDriver')
 }
 
 
